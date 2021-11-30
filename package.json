@@ -1,0 +1,23 @@
+{
+  "name": "postgres-elephant",
+  "version": "1.0.0",
+  "description": "a simple node.js api with postgres database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharioki/Postgres-node-api.git"
+  },
+  "keywords": [
+    "postgres",
+    "node"
+  ],
+  "author": "kharioki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharioki/Postgres-node-api/issues"
+  },
+  "homepage": "https://github.com/kharioki/Postgres-node-api#readme"
+}
